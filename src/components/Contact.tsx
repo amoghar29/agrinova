@@ -62,7 +62,7 @@ export function Contact() {
             </div>
             <div className="flex items-center gap-x-4">
               <Phone className="h-6 w-6 text-green-600" />
-              <span>+1 (555) 123-4567</span>
+              <span>+91 94809837122</span>
             </div>
           </div>
         </div>
